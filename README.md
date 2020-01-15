@@ -1,0 +1,2 @@
+# Trainings
+Kali for Dummies
